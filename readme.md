@@ -1,5 +1,5 @@
 # Flask File Hosting
-Easy and quick file uploading and hosting.
+Easy and quick file uploading and hosting. 
 Great for a local file hosting solution.
 
 > ### Setup
