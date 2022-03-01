@@ -3,7 +3,7 @@ Easy and quick file uploading and hosting.
 Great for a local file hosting solution.
 
 > ### Setup
-> - Download the latest release.
+> - Download the code as a ZIP.
 > - Install all the required Python libraries.
 > - Run `app.py`.
 > - Server is now running on `localhost`.
