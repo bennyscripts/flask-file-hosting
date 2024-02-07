@@ -16,7 +16,7 @@ class Config:
         json.dump(data, open("data/config.json", "w"))
 
     def get_upload_dir():
-        return json.load(open("data/config.json"))["upload_dir"]
+        return str(json.load(open("data/config.json"))["upload_dir"])
 
     def get_auth_token():
-        return json.load(open("data/config.json"))["auth_token"]
+        return str(json.load(open("data/config.json"))["auth_token"])
